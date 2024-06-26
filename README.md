@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Andrea
 - 👀 I’m interested in Videogames 🎮 and Modelism
-- 🌱 I’m currently learning python :python:
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me 
 - 😄 Pronouns: ...
+![image](https://github.com/Andrea7701/Andrea7701/assets/156012853/c32317ed-bb31-4280-b994-c352f81f550b)
 
 
 <!---
