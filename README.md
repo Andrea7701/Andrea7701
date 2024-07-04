@@ -19,10 +19,10 @@ I don't don't have difficult to learn new things about it because i code with a 
 <img src="https://github.com/Andrea7701/Andrea7701/assets/156012853/a75b4ca8-1b05-4a87-9f22-17bbf8347dae" width="50" height="50">
 </div>
 
-<h2>Contact Me</h2>
+<h2 align="center">Contact Me</h2>
 
 
-<h2>Future Projects</h2>
+<h2 align="center">Future Projects</h2>
 
 -  Memory game;
 -  Pong game;
