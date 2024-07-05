@@ -19,7 +19,26 @@ I don't don't have difficult to learn new things about it because i code with a 
 <img src="https://github.com/Andrea7701/Andrea7701/assets/156012853/a75b4ca8-1b05-4a87-9f22-17bbf8347dae" width="50" height="50">
 </div>
 
+<span></span>
+
+<div align= "center">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea7701&layout=compact" margin-top= "100">
+</div>
+
 <h2 align="center">Contact Me</h2>
+
+<div align= "center">
+<img src="https://github.com/Andrea7701/Andrea7701/assets/156012853/d55acbc5-56b8-476f-bdfc-4943789055c5](https://cdn.usbrandcolors.com/images/logos/instagram-logo.png" width="85" height="85">
+<img src="https://openmoji.org/data/color/svg/E045.svg" width="100" height="100">
+<img src="https://openmoji.org/data/color/svg/E046.svg" width="100" height="100">
+
+[1]: https://www.instagram.com/andrea_cavallini_/
+[2]: https://www.linkedin.com/in/andrea-cavallini-263087223/
+[3]: https://www.github.com/Andrea7701/
+
+</div>
+
+
 
 
 <h2 align="center">Future Projects</h2>
@@ -30,5 +49,6 @@ I don't don't have difficult to learn new things about it because i code with a 
 -  Pokédex.
 
 Currently working on: Memory Game.
+
 
 </div>
