@@ -26,6 +26,15 @@ I don't don't have difficult to learn new things about it because i code with a 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea7701&layout=compact">
 </div>
 
+<h2 align="center">Working On</h2>
+
+-  Memory game;
+-  Pong game;
+-  Meteo App;
+-  Pokédex.
+
+Currently working on: Memory Game.
+
 <div align="center">
 <h2>Contact Me</h2>
 
@@ -42,16 +51,4 @@ I don't don't have difficult to learn new things about it because i code with a 
 
 </div>
 </div>
-
-
-<h2 align="center">Working On</h2>
-
--  Memory game;
--  Pong game;
--  Meteo App;
--  Pokédex.
-
-Currently working on: Memory Game.
-
-
 </div>
