@@ -26,7 +26,7 @@ I don't don't have difficult to learn new things about it because i code with a 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea7701&layout=compact">
 </div>
 
-<h2 align="center">On going Works</h2>
+<h2 align="center">Ongoing Works</h2>
 
 -  Memory game;
 -  Pong game;
