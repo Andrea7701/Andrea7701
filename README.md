@@ -20,11 +20,15 @@ I don't don't have difficult to learn new things about it because i code with a 
 <img src="https://github.com/Andrea7701/Andrea7701/assets/156012853/a75b4ca8-1b05-4a87-9f22-17bbf8347dae" width="50" height="50">
 </div>
 
+
+
 <span></span>
 
 <div align= "center">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea7701&layout=compact">
 </div>
+
+
 
 <h2 align="center">Ongoing Works</h2>
 
@@ -33,7 +37,10 @@ I don't don't have difficult to learn new things about it because i code with a 
 -  Meteo App;
 -  Pokédex.
 
-Currently working on: Memory Game.
+
+<h2 align= "center">Currently learning:</h2>
+
+- Python.
 
 <div align="center">
 <h2>Contact Me</h2>
