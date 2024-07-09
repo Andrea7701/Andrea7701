@@ -32,7 +32,7 @@ I don't don't have difficult to learn new things about it because i code with a 
 
 <h2 align="center">Ongoing Works</h2>
 
--  Memory game;
+-  rock, paper, scissors;
 -  Pong game;
 -  Meteo App;
 -  Pokédex.
