@@ -47,7 +47,7 @@ I don't have problem to learn new things about it because i code with a smile on
 - nodeJs.
 
 <div align="center">
-<h2>Contact Me</h2>
+<h2>Contact Me 📱</h2>
 
 <div>
 
