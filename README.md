@@ -32,7 +32,6 @@ I don't have problem to learn new things about it because i code with a smile on
 
 <h2 align="center">Ongoing Works</h2>
 
--  Qr code generator ✅;
 -  Dice rolling;
 -  Currency converter;
 -  Temperature Converter;
