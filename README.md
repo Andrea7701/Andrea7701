@@ -34,8 +34,7 @@ I don't have problem to learn new things about it because i code with a smile on
 
 -  Temperature Converter;
 -  Pong game;
-
-
+-  Weather App. 
 
 <h2 align= "center">Currently learning:</h2>
 
