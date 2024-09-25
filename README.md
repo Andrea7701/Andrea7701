@@ -7,7 +7,7 @@
 I started to mature interest in coding since the first line of code i have seen in school with html and
 css from that i got in touch with the web development and i learned C#, MySql and javascript,
 then from the that moment i started to learn React and Typescript. 
-I don't have problem to learn new things about it because i code with a smile on my face
+I don't have problem to learn new things about it because i code with a smile on my face.
 </p>
 
 <h2 align="center">Technical skills</h2>
