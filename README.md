@@ -29,11 +29,6 @@ I don't have problem to learn new things about it because i code with a smile on
 </div>
 
 
-<h2 align= "center">Currently learning:</h2>
-
-- Python;
-- nodeJs.
-
 <div align="center">
 <h2>Contact Me 📱</h2>
 
